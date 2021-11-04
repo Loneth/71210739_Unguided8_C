@@ -1,0 +1,1 @@
+Ember "B" akan terisi penuh terlebih dahulu, karena hanya pipa air yang menuju ke ember "B" saja yang terbuka. Sehingga ember A, C, dan D tidak dapat menampung air
